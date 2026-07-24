@@ -1,0 +1,6 @@
+{
+  "versionCode": 9,
+  "versionName": "1.3.5",
+  "apkUrl": "https://github.com/exvoid00/asiabakery-update/releases/latest/download/projectbisniskue-latest.apk",
+  "catatan": "- Bonus/gratis kini bisa diisi SAAT MENITIP maupun SAAT SETORAN (fleksibel). Tinggal ketuk 'Beri gratis / bonus' di form nitip, atau atur nanti di layar setoran.\n- Laporan tiap warung sekarang menampilkan tipe pembayaran (Cash / Transfer).\n- Laporan memisahkan rugi jadi Rugi Barang Basi dan Rugi Barang Gratis, lalu dijumlah jadi TOTAL RUGI supaya jelas asal ruginya.\n- Tabel setoran per warung lebih rinci: dititip, harga, laku, basi + ruginya, gratis + ruginya, dan uang masuk.\n- Struk setoran diperbaiki: jumlah laku dan sisa kini selalu cocok dengan totalnya.\n- Ada laporan Titipan Berjalan (barang yang masih dititip, belum disetor) yang bisa diunduh PDF/Excel.\n- Cadangan data bisa dipilih bentuknya: Lengkap (bisa dipulihkan), PDF, atau Excel.\n- Baris TOTAL di semua laporan diberi warna supaya gampang dibaca.\n\nData dan setoran lama tetap aman, tidak ada yang terhapus oleh update ini."
+}
